@@ -1,4 +1,4 @@
-![Screen Shot 2024-03-18 at 10 39 05 AM](https://github.com/PelangiKartikaChandraKirana/SysOP24-3123521003/assets/160555525/8686c8ec-aaae-46ab-af2d-977ea6bef9da)## Operasi input output
+## Operasi input output
 
 ### Percobaan 1 : File descriptor
 
