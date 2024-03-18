@@ -64,11 +64,14 @@ Perintah ini digunakan untuk mengukur jumlah operasi floating point per detik (F
 
 
 ## Perbandingan Eksekusi
+![WhatsApp Image 2024-03-18 at 09 04 09](https://github.com/PelangiKartikaChandraKirana/SysOP24-3123521003/assets/160555525/ad27574d-72f1-4fa6-b31c-f72b72fa1833)
 
-https://docs.google.com/spreadsheets/d/1CVZH3rk8T0rY-0BirmPdzeeieXzrKRjIVq6fb6Yu5GQ/edit#gid=0
+
 
 **Analisa hasil percobaan**
+Dari plot perbandingan di atas, dapat dilihat bahwa Alyssa memiliki nilai rata-rata IOPS dan FLOPS yang lebih tinggi dibandingkan dengan Dyzka, Pelangi, dan Feby. Hal ini menunjukkan bahwa PC Alyssa cenderung memiliki performa yang lebih baik dalam menangani operasi input/output (IOPS) dan operasi floating point (FLOPS).
 
+Kesimpulan yang bisa diambil adalah performa komputer dalam hal IOPS dan FLOPS sangat penting tergantung pada kebutuhan aplikasi atau tugas yang dijalankan. Semakin tinggi nilai IOPS dan FLOPS, semakin baik kemampuan komputer tersebut dalam menangani tugas-tugas yang memerlukan operasi input/output dan operasi floating point secara cepat dan efisien.
 
 
 ## Kesimpulan IOPS dan FLOPS
